@@ -1,1 +1,1 @@
-# Esp32c3_mpu6500_oled
+基于FLIP流体模拟算法制作的OLED流体，姿态传感器MPU6050，芯片esp32c3
